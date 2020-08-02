@@ -1,14 +1,14 @@
 # Cronograma semestre 1
 
 ## Semana 1
--   [X] Lochar
+- [x] Lochar
 
 ## Semana 2
--   [X] Reunión con Anderson para ver qué hago
+- [x] Reunión con Anderson para ver qué hago
 
 ## Semana 3
-- [X] Plantear ejemplo de Quino desde las 3 posturas
-- [ ] Hacer cronograma
+- [x] Plantear ejemplo de Quino desde las 3 posturas
+- [x] Hacer cronograma
 
 ## Semana 4
 - [ ] Tomar decisión: sentimientos, literatura o ambos
