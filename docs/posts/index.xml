@@ -6,10 +6,19 @@
     <description>Recent content in Posts on El que ríe de último entiende mejor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 23:00:25 -0500</lastBuildDate>
     
 	<atom:link href="https://mulus1466.github.io/tesis/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://mulus1466.github.io/tesis/posts/test/</link>
+      <pubDate>Sun, 02 Aug 2020 23:00:25 -0500</pubDate>
+      
+      <guid>https://mulus1466.github.io/tesis/posts/test/</guid>
+      <description> Esto     Es   Una   Prueba    Hola    chao   </description>
+    </item>
     
     <item>
       <title>Cronograma de la tesis</title>
