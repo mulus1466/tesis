@@ -1,7 +1,6 @@
 ---
 title: "Ejemplo: Quino y las tres opciones"
 date: 2020-08-02
-draft: false
 ---
 
 ## Sentimientos y conocimiento
