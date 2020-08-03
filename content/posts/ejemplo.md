@@ -1,6 +1,7 @@
 ---
 title: "Ejemplo: Quino y las tres opciones"
 date: 2020-08-02
+description: Analizamos una caricatura de Quino bajo la luz de tres argumentos epistemológicos (uno sobre los sentimientos y dos sobre la literatura)
 ---
 
 ## Sentimientos y conocimiento
