@@ -2,6 +2,7 @@
 title: "Cronograma de la tesis"
 date: 2020-08-02
 description: Cronograma ordenando los pasos a seguir.
+menu: "main"
 ---
 
 
