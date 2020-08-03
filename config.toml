@@ -1,56 +1,5 @@
 baseURL = "https://mulus1466.github.io/tesis/"
-theme = "hugo-onyx-theme"
+theme = "hugo-theme-minos"
 languageCode = "es-co"
 title = "El que ríe de último entiende mejor"
 publishDir = "docs"
-
-enableGitInfo = true
-
-disableFastRender = true        # Hugo 0.30
-
-pygmentsCodeFences = true       # This applies to Chroma too.
-pygmentsUseClasses = true       # This applies to Chroma too.
-
-enableEmoji = true
-
-[Author]
-  name = "Martín Buenahora Bonilla"
-
-[params]
-  name = "El que ríe de último entiende mejor"
-  description = "Archivos y documentos de una tesis de filosofía pregrado en proceso."
-
-  # Go date formats: https://golang.org/pkg/time/#pkg-constants
-  dateform = "Mon Jan 2, 2006"
-
-  github_user = "mulus1466"
-  github_repo = "tesis"
-  github_banner = false
-
-#  images = ["/favicon-196x196.png"] # Used in twitter_cards.html partial
-
-  custom_css = [ # Chroma GitHub theme
-                 "css/github_chroma.css" # Needs pygmentsUseClasses to be true
-               ]
-  custom_css_absolute = [ # Iosevka fonts
-                          # "https://cdn.rawgit.com/kaushalmodi/iosevka-mirror/v1.13.2/iosevka.css"
-                        ]
-  custom_js  = []
-
-  # favicon = "favicon.ico"
-
-[params.sidebar]
-  logo = "favicon.ico"
-
-  github_button  = false
-  travis_button  = false
-  codecov_button = false
-  gratipay = ""
-
-  # Mon Sep 04 23:55:36 EDT 2017 - kmodi
-  # Disable this option for now.. but seems to be useful in future
-  show_relations = false
-
-[params.footer]
-  copyright = ""
-  show_powered_by = true
