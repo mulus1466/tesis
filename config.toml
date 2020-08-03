@@ -1,8 +1,8 @@
 baseURL = "https://mulus1466.github.io/tesis/"
+theme = "hugo-onyx-theme"
 languageCode = "es-co"
 title = "El que ríe de último entiende mejor"
 publishDir = "docs"
-theme = "hugo-onyx-theme"
 
 enableGitInfo = true
 
