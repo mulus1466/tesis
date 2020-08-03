@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mulus1466.github.io/tesis/posts/cronograma/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://mulus1466.github.io/tesis/posts/ejemplo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mulus1466.github.io/tesis/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mulus1466.github.io/tesis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mulus1466.github.io/tesis/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mulus1466.github.io/tesis/tags/</loc>
   </url>
   
 </urlset>
