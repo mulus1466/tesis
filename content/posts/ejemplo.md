@@ -1,4 +1,10 @@
-## More than a feeling
+---
+title: "Ejemplo: Quino y las tres opciones"
+date: 2020-08-02
+draft: false
+---
+
+## Sentimientos y conocimiento
 ### Goldie
 #### Proceso
 - Algo hace que yo me sienta de un cierto modo
@@ -12,18 +18,18 @@
   - Así, por medio de mi experiencia del humor habría llegado a conocer que la caricatura de Quino tiene todas estas propiedades.
 - [Carreta mía] La gracia que me causa el chiste de Quino hace que lo reciba de una forma abierta y orientada a las cosas nuevas (que me sorprenden) y absurdas que encuentro en la escena
 ## Literatura
-### Walsh & Wilson [No funciona: demasiada gimnasia mental]
+### Walsh & Wilson
 #### Proceso
-- [Walsh] A parte de los conocimientos /know-that/ y /know-how/, existe otro tipo de conocimiento, /know-what/ [creo que este término me lo inventé yo, no estoy seguro de dónde salió], que nos permite saber cómo es/cómo se siente estar en una cierta situación o ser cierto tipo de persona
+- [Walsh] A parte de los conocimientos _know-that_ y _know-how_, existe otro tipo de conocimiento, _know-what_ [creo que este término me lo inventé yo, no estoy seguro de dónde salió], que nos permite saber cómo es/cómo se siente estar en una cierta situación o ser cierto tipo de persona
   - Este es chévere porque, por un lado cuadra con la diferencia entre saber que hay un x a saber cómo se siente ser un x; además explica por qué consideramos que aprendemos cosas nuevas
-- La literatura nos permitiría adquirir conocimiento del tipo /know-what/, ya que nos está presentando la situación de uno o más personajes desde sus perspectivas y vivencias; intenta ponernos en su lugar y verlos como ellos lo ven
-- [Wilson] Dentro de este /know-what/ hay dos tipos diferentes: uno débil, por medio del cual yo derivo un conocimiento de cómo se siente ser x; y otro fuerte, que me permite derivar otras cosas de dicho conocimiento (Más que nada un cambio en mi actitud)
+- La literatura nos permitiría adquirir conocimiento del tipo _know-what_, ya que nos está presentando la situación de uno o más personajes desde sus perspectivas y vivencias; intenta ponernos en su lugar y verlos como ellos lo ven
+- [Wilson] Dentro de este _know-what_ hay dos tipos diferentes: uno débil, por medio del cual yo derivo un conocimiento de cómo se siente ser x; y otro fuerte, que me permite derivar otras cosas de dicho conocimiento (Más que nada un cambio en mi actitud)
   - No es lo mismo saber cómo es ser Franz Xavier Morztin a saber que la tradición puede ser definitiva respecto a la identidad de una persona
   - Esta distinción la hace Walsh para acoplarse mejor a la concepción popular de que aprendemos con la literatura: no se suele decir esto en el sentido de que sabemos cómo se siente estar en una situación (aunque también), sino más que nada que se conoce una cosa nueva
 #### Ejemplo
 - Chistes como la caricatura de Quino nos presentarían con un conocimiento /know-what/ referente a cómo es/cómo se siente estar en un funeral en el que un puddle es el sepulturero
 - [Ni idea cómo] nos pone en los zapatos de uno de los asistentes, por lo que descubriríamos cómo se siente ser esto
-- Con el /know-what/ fuerte descubriríamos que es humorístico que un perro sea sepulturero
+- Con el _know-what_ fuerte descubriríamos que es humorístico que un perro sea sepulturero
 ### John Gibson
 #### Proceso
 - La literatura provee un tipo de introspección cognitiva [¿?], la cual depende de las cualidades estéticas de la obra
@@ -38,5 +44,5 @@
   - [Esto cuadra con la idea de que si no tengo ciertos conocimientos no entiendo un chiste. Hm, es más, el "no entiendo el chiste" parece apuntar a la idea de que este es un orden de elementos (conocimientos), por lo que si falta algo no tiene sentido el orden como un todo]
 - Así, aunque no tenga nuevos conocimientos tras ver el chiste de Quino sí puedo decir que los entiendo de forma diferente: puedo relacionar los funerales, perros, sepultureros, etc., de una forma absurda (un error categorial)
 - Esto me permite ver dicho escenario desde una perspectiva humana y teniendo en cuenta valores: entendemos que el usar a un perro de sepulturero viola la solemnidad de un entierro, siendo socialmente incorrecto
-  - [No creo que esto se refleje en actitudes o acciones. Aunque se podría decir que aprendemos cómo /no/ se debe actuar, lo que es un poco raro pero podría funcionar.]
+  - [No creo que esto se refleje en actitudes o acciones. Aunque se podría decir que aprendemos cómo _no_ se debe actuar, lo que es un poco raro pero podría funcionar.]
   - [Me gusta que en este hay un énfasis en que entendemos cosas relacionadas con valores, lo que aplica bien a este caso. Me recuerda a la distinción entre humor y comedia (chistes basados en el lenguaje vs en la cultura) de Gabin]
