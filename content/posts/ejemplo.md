@@ -4,7 +4,7 @@ date: 2020-08-02
 description: Analizamos una caricatura de Quino bajo la luz de tres argumentos epistemológicos (uno sobre los sentimientos y dos sobre la literatura)
 ---
 
-![Caricatura de Quino que ha resultado ser muy buen ejemplo :D](/imgs/QuinoPerroSepulturero.jpg)
+![Caricatura de Quino que ha resultado ser muy buen ejemplo :D](static/imgs/QuinoPerroSepulturero.jpg)
 
 ## Sentimientos y conocimiento
 ### Goldie
