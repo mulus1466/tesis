@@ -7,6 +7,6 @@ draft: true
 * Esto
 - Es
 - [ ] Una
-- [ ] Prueba
-1. Hola
-2. chao
+- [X] Prueba
+- Hola
+- chao
