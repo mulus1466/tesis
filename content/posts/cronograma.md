@@ -8,7 +8,7 @@ menu: ["main", "footer"]
 ## Cronograma semestre 1
 
 ### Semana 1
-* [x] Lochar 
+- [x] Lochar 
 
 ### Semana 2
 - [x] Reunión con Anderson para ver qué hago
