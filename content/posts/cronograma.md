@@ -5,7 +5,6 @@ description: Cronograma ordenando los pasos a seguir.
 menu: "main"
 ---
 
-
 ## Cronograma semestre 1
 
 ### Semana 1
