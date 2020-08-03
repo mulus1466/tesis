@@ -1,7 +1,13 @@
+# ---
+title: "Cronograma de la tesis"
+date: 2020-08-02
+---
+
+
 # Cronograma semestre 1
 
 ## Semana 1
-- [x] Lochar
+* [x] Lochar 
 
 ## Semana 2
 - [x] Reunión con Anderson para ver qué hago
@@ -12,7 +18,7 @@
 
 ## Semana 4
 - [ ] Tomar decisión: sentimientos, literatura o ambos
-- [ ] ¿Hacer página web?
+- [x] ¿Hacer página web?
 
 ## Semana 5
 - [ ] Buscar bibliografía para el cap. 1
