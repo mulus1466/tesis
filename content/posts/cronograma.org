@@ -1,6 +1,9 @@
+#+title: Cronograma de la tesis
+#+date: 02-08-2020
+
 * Cronograma semestre 1
 ** Semana 1
-- [x] Lochar
+[x] Lochar
 ** Semana 2
 - [x] Reunión con Anderson para ver qué hago
 ** Semana 3
