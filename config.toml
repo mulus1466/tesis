@@ -1,5 +1,5 @@
 baseURL = "https://mulus1466.github.io/tesis/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "es-co"
+title = "El que ríe de último entiende mejor"
 theme = "hugo-theme-minos"
 publishDir = "docs"
