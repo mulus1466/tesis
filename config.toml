@@ -14,18 +14,18 @@ pygmentsUseClasses = true       # This applies to Chroma too.
 enableEmoji = true
 
 [Author]
-  name = "Kaushal Modi"
+  name = "Martín Buenahora Bonilla"
 
 [params]
-  name = "Onyx"
-  description = "A Hugo theme built using the Hugo Alabaster theme as base."
+  name = "El que ríe de último entiende mejor"
+  description = "Archivos y documentos de una tesis de filosofía pregrado en proceso."
 
   # Go date formats: https://golang.org/pkg/time/#pkg-constants
   dateform = "Mon Jan 2, 2006"
 
-  github_user = "kaushalmodi"
-  github_repo = "hugo-onyx-theme"
-  github_banner = true
+  github_user = "mulus1466"
+  github_repo = "tesis"
+  github_banner = false
 
 #  images = ["/favicon-196x196.png"] # Used in twitter_cards.html partial
 
@@ -42,7 +42,7 @@ enableEmoji = true
 [params.sidebar]
   logo = "favicon.ico"
 
-  github_button  = true
+  github_button  = false
   travis_button  = false
   codecov_button = false
   gratipay = ""
