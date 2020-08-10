@@ -1,5 +1,0 @@
-baseURL = "https://mulus1466.github.io/tesis/"
-theme = "hugo-theme-minos"
-languageCode = "es-co"
-title = "El que ríe de último entiende mejor"
-publishDir = "docs"
