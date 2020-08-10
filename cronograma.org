@@ -1,7 +1,13 @@
 #+TITLE: Cronograma de la tesis :D
 
-* Semana 5, 17 Ago.
+* TODO Semana 5, 24 Ago.
+- Empaparse de emociones
+- [ ] Reseñar caps. 1-5
+  - Orientada a los argumentos
+  - Resaltar distintas formas de presentar la naturaleza delas emociones
+  - ¿Qué cosas me sirven?
+  - Si tienen que ver algo con el conocimiento, ¿cómo lo hacen?
 * 12-23 Oct.
 - [ ] Redactar plan de ataque.
 * 26 Oct - 20 Nov.
-- [ ]Escritura de primer capítulo.
+- [ ] Escritura de primer capítulo.
