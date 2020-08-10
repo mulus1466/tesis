@@ -1,0 +1,7 @@
+#+TITLE: Cronograma de la tesis :D
+
+* Semana 5, 17 Ago.
+* 12-23 Oct.
+- [ ] Redactar plan de ataque.
+* 26 Oct - 20 Nov.
+- [ ]Escritura de primer capítulo.
